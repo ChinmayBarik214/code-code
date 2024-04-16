@@ -1,4 +1,4 @@
-## The random parameters in Event listeners
+## The random parameters in Event listeners (event, element, etc.)
 Each event listener needs to be added to listen for some DOM event (`onClick`, `onChange`, `onSubmit` etc. when added on HTML elements, and `onclick`, `onchange`, `onsubmit`, `keydown`, etc. when passed as event listener in `document.addEventListener, document.removeEventListener`, etc.) and trigger a callback function, i.e., the event handler, when this event occurs. These callback functions have some parameters depending on the event that triggers them.
 
 For example in the following code, notice the keydown event listener being added. When the callback is specified we do so without any parameters, yet we are passing an argument (event) to it in it’s definition.
