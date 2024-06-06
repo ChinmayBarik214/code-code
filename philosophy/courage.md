@@ -17,3 +17,7 @@
 > “God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.”
 
 ## May our actions be High Yield, always.
+It's time to become close-minded and follow this philosphy.
+I know that sticking to one set of ideals kills one.
+But here we will die, as man, only to reborn anongst the Gods.
+For through the same means of unchanging ideals, celetestial beings like him, sustain their name, existenence and immortality.
